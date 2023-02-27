@@ -1,4 +1,4 @@
-# Description
+## Description
 
 The Employee Tracker is command-line applicaton that is used to manage
 a company's employee database. For this challenge, I have written most of
@@ -7,7 +7,7 @@ Because of this, I don't have any functionality to present. This will have to
 be one of the challenges that I drop.
 
 
-# Usage
+## Usage
 
 The following packages have been installed:
 
@@ -15,10 +15,10 @@ The following packages have been installed:
   mySQL2
   console.table
   
-  # License
+  ## License
   
   MIT
   https://opensource.org/license/mit/
   
-  # GitHub Repo
-  
+  ## GitHub Repo
+  https://github.com/brachtco/employee-tracker
