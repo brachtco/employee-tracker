@@ -14,7 +14,7 @@ The following packages have been installed:
   Inquirer 
   mySQL2 
   console.table
-  
+ 
   ## License
   
   MIT
