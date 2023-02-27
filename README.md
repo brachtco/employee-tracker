@@ -11,8 +11,8 @@ be one of the challenges that I drop.
 
 The following packages have been installed:
 
-  Inquirer
-  mySQL2
+  Inquirer 
+  mySQL2 
   console.table
   
   ## License
